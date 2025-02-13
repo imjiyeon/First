@@ -6,7 +6,7 @@ public class Test {
 		
 		System.out.println("imjiyeon");
 
-		// ctrl + s
+		// 테스트 수정
 	}
 
 }
